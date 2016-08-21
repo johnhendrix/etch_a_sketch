@@ -1,6 +1,5 @@
 //deafult number of squares
-var squaresPerRow = 50;
-
+var squaresPerRow = 64;
 
 //when the document is ready, create grid using JQuery
 $(document).ready(function(){	
